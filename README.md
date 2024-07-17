@@ -3,7 +3,7 @@
 This project is a web-based form for managing project data, developed as a mini-project during an internship. The form stores user data in JSONPowerDB and supports REST APIs and serverless technology. Projects can be added or updated based on their project ID. The form automatically checks the project ID and uses APIs to populate other input fields, allowing users to update project details as needed. The application uses AJAX requests for smooth and fast interactions, and it can store various data types such as numbers, strings, dates, etc.
 
 ## Website
-You can access the project [here](https://kunal5163.github.io/login2xplore-project/).
+You can access the project [here](https://akmaster1709.github.io/login2xplore-mini-project/).
 
 ## Features
 - Add new projects.
